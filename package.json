@@ -1,0 +1,22 @@
+{
+  "name": "genai",
+  "version": "1.0.0",
+  "description": "Gen AI",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "GenAI",
+    "JS",
+    "NodeJS"
+  ],
+  "author": "ching",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "js-tiktoken": "^1.0.21",
+    "openai": "^5.12.2"
+  }
+}
